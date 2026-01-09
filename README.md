@@ -1,7 +1,7 @@
 # Shortest Path Algorithm
 This project is based on one of the certification progress on the FreeCodeCamp (FCC) Scientific Computing with Python curriculum. I'm still halfway done to complete the project.
 
-## Things I have learned for now
+## Things I have learned from this project:
 * **About Dijkstra**: Basically, Dijkstra is like a super-efficient scout. Instead of wandering aimlessly, it systematically finds the shortest path from a starting point to every other node in a network.
 
 * **Graph and Algorithm**: I learned by visualizing the logic (Nodes & Edges) 
