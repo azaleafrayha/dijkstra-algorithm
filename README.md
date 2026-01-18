@@ -21,7 +21,7 @@ Inside this repository, you will find:
 * **About Dijkstra**: Basically, Dijkstra is like a super-efficient scout. Instead of wandering aimlessly, it systematically finds the shortest path from a starting point to every other node in a network.
 
 * **Graph and Algorithm**: I learned by visualizing the basic logic (Nodes & Edges)<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="dijkstra.jpeg" width="300" height="200"><br>
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="graph_visual.jpeg" width="300" height="200"><br>
 
     * Nodes (the dots): These are the destinations, just like cities on a map, routers in a network, or people in a group.
     * Edges (the lines): These are the connections, like the roads, the cables, or the friendships that link the nodes together.
