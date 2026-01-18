@@ -13,7 +13,7 @@ Ever wondered how Google Maps magically finds the fastest route while you're rus
 Inside this repository, you will find:
 * `dijkstra.py` — The main Python script that runs Dijkstra Algorithm.
 * `README.md` — The documentation you are reading right now.
-* `dijkstra.jpeg` — Just a pic of my note visualizing the graph :)
+* `graph_visual.jpeg` — Just a pic of my note visualizing the graph :)
 * `graph.png` — A screenshot of my graph (just an example for the output)
 * `output.png` — A screenshot that shows what happen if you run the code on the terminal.
 
