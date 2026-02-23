@@ -1,7 +1,9 @@
 # Finding The Shortest Path Using Dijkstra Algorithm
 Ever wondered how Google Maps magically finds the fastest route while you're rushing for a meeting? That’s basically `Dijkstra’s Algorithm` in action. It’s a smart way to find the shortest path between two points in a messy web of connections (a graph).
 
-**NOTE!** The main script is based on FreeCodeCamp (FCC) Scientific Computing with Python curriculum. This project is about how Python handles complex logic, using dictionaries to store distances and lists to track unvisited nodes.
+----
+
+The main script is based on freeCodeCamp Scientific Computing with Python curriculum. This project is about how Python handles complex logic, using dictionaries to store distances and lists to track unvisited nodes.
 
 ## Features
 * **Weighted Graph Support**: Handles connections between nodes that have specific "costs" or distances (not just simple 1-to-1 steps).
